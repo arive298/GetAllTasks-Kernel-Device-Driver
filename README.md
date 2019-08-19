@@ -1,10 +1,10 @@
 # GetAllTasks-Kernel-Device-Driver
 Uses the kernel macro for_each_task() to access every task and obtain specific fields of the task_struct
 To compile the device driver run the following commands
-'''
+```
 sudo su
 make
-'''
+```
 
 ## Installing requirements for building driver on raspberri py
 
