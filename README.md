@@ -15,7 +15,7 @@ First, you need to get the latest update.
 ```
 Then install the necessay dependencies.
 ```
-- apt-get install bison flex libss-dev
+- apt-get install bison flex libssl-dev
 ```
 Update the Kernel using the rpi-update tool
 ```
