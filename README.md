@@ -22,6 +22,10 @@ Update the Kernel using the rpi-update tool
 - rpi-update
 - wget https://raw.githubusercontent.com/notro/rpi-source/master/rpi-source -O /usr/bin/rpi-source && sudo chmod +x /usr/bin/rpi-source && /usr/bin/rpi-source -q --tag-update
 ```
+Installing bc
+```
+- sudo apt-get install bc
+```
 Install the headers
 ```
 - rpi-source
