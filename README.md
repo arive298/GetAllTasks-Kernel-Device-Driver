@@ -6,7 +6,7 @@ sudo su
 make
 ```
 
-## Installing requirements for building driver on raspberri py
+## Installing requirements for building driver on Raspberry Pi
 For all the command you have to be the root account.
 First, you need to get the latest update. 
 ```
